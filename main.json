@@ -10,18 +10,12 @@
          "name": "DtacHappyWork_01",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_01.ovpn"
       },
-{
-         "name": "DtacHappyWork_02",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_02.ovpn"
-      },
+
       {
          "name": "TrueNoPro_01",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_01.ovpn"
-      },
-{
-         "name": "TrueNoPro_02",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_02.ovpn"
       }
+
    ],
-   "version": 1
+   "version": 3
 }
