@@ -2,8 +2,12 @@
    "files": [
  
         {
-         "name": "DtacNoPro_01",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_01.ovpn"
+         "name": "AIS_ALLPro_01",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_01.ovpn"
+      },
+{
+         "name": "AIS_ALLPro_02",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_02.ovpn"
       },
 
         
@@ -15,6 +19,22 @@
          "name": "DtacHappyWork_02",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_02.ovpn"
       },
+{
+         "name": "DtacLINE_01",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_01.ovpn"
+      },
+"name": "DtacLINE_02",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_02.ovpn"
+      },
+
+{
+         "name": "DtacSocial_01",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_01.ovpn"
+      },
+{
+         "name": "DtacSocial_02",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_02.ovpn"
+      },
 
       {
          "name": "TrueNoPro_01",
@@ -22,6 +42,5 @@
       }
 
    ],
-   "version": 13
+   "version": 14
 }
- 
