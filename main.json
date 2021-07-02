@@ -2,72 +2,72 @@
    "files": [    
       {
          "name": "DtacHappyWork_01",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/DtacHappyWork_01.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_01.ovpn"
       },
 {
          "name": "DtacHappyWork_02",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/DtacHappyWork_02.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_02.ovpn"
       },
 {
          "name": "DtacHappyWork_03",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/DtacHappyWork_03.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_03.ovpn"
       },{
          "name": "DtacHappyWork_04",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/DtacHappyWork_04.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_04.ovpn"
       },
 
 
 {
          "name": "DtacSocial_01",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/DtacSocial_01.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_01.ovpn"
       },
 {
          "name": "DtacSocial_02",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/DtacSocial_02.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_02.ovpn"
       },{
          "name": "DtacSocial_03",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/DtacSocial_03.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_03.ovpn"
       },{
          "name": "DtacSocial_04",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/DtacSocial_04.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_04.ovpn"
       },
 
       {
          "name": "TrueNoPro_01",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/TrueNoPro_01.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_01.ovpn"
       },
  {
          "name": "TrueNoPro_02",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/TrueNoPro_02.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_02.ovpn"
       },
 {
          "name": "TrueNoPro_03",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/TrueNoPro_03.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_03.ovpn"
       },
 {
          "name": "TrueNoPro_04",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/TrueNoPro_04.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_04.ovpn"
       },
 
      {
          "name": "AIS_ALLPro_01",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/AIS_ALLPro_01.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_01.ovpn"
       },
 {
          "name": "AIS_ALLPro_02",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/AIS_ALLPro_02.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_02.ovpn"
       },
 {
          "name": "AIS_ALLPro_03",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/AIS_ALLPro_03.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_03.ovpn"
       },
 {
          "name": "AIS_ALLPro_04",
-         "url": "https://sansoe.000webhostapp.com/Config%20ovpn/AIS_ALLPro_04.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_04.ovpn"
       }
 
    ],
-"message":"ဖိုင်အပ်ဒိပ်ဗားရှင်း(1.3.0)\n \nJune 30 2021\n \n• Dtac Happy Work\n• Dtac Social\n• True No Pro\n• AIS All Pro\n❤️Powered by sansoe❤️✌️",
+"message":"ဖိုင်အပ်ဒိပ်ဗားရှင်း(1.4.0)\n \n❰July 2 2021❱\n \n• Dtac Happy Work\n• Dtac Social\n• True No Pro\n• AIS All Pro\n  \n❤️Powered by sansoe❤️✌️",
    "title":"ဖိုင်အသစ်ရရှိနိုင်ပါပြီ",
-   "version": 3
+   "version": 4
 }
