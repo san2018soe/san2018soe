@@ -1,73 +1,32 @@
 {
    "files": [    
       {
-         "name": "DtacHappyWork_01",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_01.ovpn"
-      },
-{
-         "name": "DtacHappyWork_02",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_02.ovpn"
-      },
-{
-         "name": "DtacHappyWork_03",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_03.ovpn"
-      },{
-         "name": "DtacHappyWork_04",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_04.ovpn"
+         "name": "DtacHappyWork_VIP",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP.ovpn"
       },
 
 
+
 {
-         "name": "DtacSocial_01",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_01.ovpn"
+         "name": "DtacSocial_VIP",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP.ovpn"
       },
-{
-         "name": "DtacSocial_02",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_02.ovpn"
-      },{
-         "name": "DtacSocial_03",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_03.ovpn"
-      },{
-         "name": "DtacSocial_04",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_04.ovpn"
-      },
+
 
       {
-         "name": "TrueNoPro_01",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_01.ovpn"
+         "name": "TrueNoPro_VIP",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP.ovpn"
       },
- {
-         "name": "TrueNoPro_02",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_02.ovpn"
-      },
-{
-         "name": "TrueNoPro_03",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_03.ovpn"
-      },
-{
-         "name": "TrueNoPro_04",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_04.ovpn"
-      },
+ 
 
      {
-         "name": "AIS_ALLPro_01",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_01.ovpn"
-      },
-{
-         "name": "AIS_ALLPro_02",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_02.ovpn"
-      },
-{
-         "name": "AIS_ALLPro_03",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_03.ovpn"
-      },
-{
-         "name": "AIS_ALLPro_04",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_04.ovpn"
+         "name": "AIS_ALLPro_VIP",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_VIP.ovpn"
       }
 
+
    ],
-"message":"ဖိုင်အပ်ဒိပ်ဗားရှင်း(1.5.0)\n \n❰July 3 2021❱\n \n• Dtac Happy Work\n• Dtac Social\n• True No Pro\n• AIS All Pro\n  \n❤️Powered by sansoe❤️✌️",
+"message":"ဖိုင်အပ်ဒိပ်ဗားရှင်း(1.6.0)\n \n❰July 4 2021❱\n \n• Dtac Happy Work\n• Dtac Social\n• True No Pro\n• AIS All Pro\n \nFree အကောင့် \nအမည်နှင့်ပတ်စဝှက်👉DREAMVPN \nကုန်ဆုံးမည့်ရက် 14/7/2021    \n  \n❤️Powered by sansoe❤️✌️",
    "title":"ဖိုင်အသစ်ရရှိနိုင်ပါပြီ",
-   "version": 5
+   "version": 6
 }
