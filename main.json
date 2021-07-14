@@ -9,6 +9,10 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE.ovpn"
       },
 {
+         "name": "DtacHappyWork_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE2.ovpn"
+      },
+{
          "name": "DtacHappyWork_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP2.ovpn"
       },
@@ -24,10 +28,7 @@
          "name": "DtacHappyWork_VIP5",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP5.ovpn"
       },
-{
-         "name": "DtacLINE_FREE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE.ovpn"
-      },
+
 {
          "name": "DtacLINE_VIP",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP.ovpn"
@@ -62,6 +63,10 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE.ovpn"
       },
 {
+         "name": "DtacSocial_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE2.ovpn"
+      },
+{
          "name": "DtacSocial_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP2.ovpn"
       },
@@ -87,7 +92,13 @@
 {
          "name": "TrueNoPro_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE.ovpn"
-      },{
+      },
+{
+         "name": "TrueNoPro_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE2.ovpn"
+      },
+
+{
          "name": "TrueNoPro_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP2.ovpn"
       },{
@@ -110,6 +121,10 @@
          "name": "AIS_ALLPro_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_FREE.ovpn"
       },
+{
+         "name": "AIS_ALLPro_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_FREE2.ovpn"
+      },
  {
          "name": "AIS_ALLPro_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_VIP2.ovpn"
@@ -129,7 +144,7 @@
 
 
    ],
-"message":"ဖိုင်အပ်ဒိပ်ဗားရှင်း(1.7.0)\n \n❰July 4 2021❱\n \n• Dtac Happy Work\n• DtacLINE\n• Dtac Social\n• True No Pro\n• AIS All Pro\n \nFree အကောင့် \nအမည်နှင့်ပတ်စဝှက်👉DREAMVPN \nကုန်ဆုံးမည့်ရက် 14/7/2021    \n  \n❤️Powered by sansoe❤️✌️",
+"message":"ဖိုင်အပ်ဒိပ်ဗားရှင်း(1.8)\n \n❰July 14 2021❱\n \n• Dtac Happy Work\n• Dtac Social\n• True No Pro\n• AIS All Pro\n \nFREEဖိုင်(2)ဖိုင်အသစ်ထည့်ထား    \n  \n❤️Powered by sansoe❤️✌️",
    "title":"ဖိုင်အသစ်ရရှိနိုင်ပါပြီ",
-   "version": 8
+   "version": 9
 }
