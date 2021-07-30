@@ -1,7 +1,15 @@
 {
-    "serverVersionCode": 5,
-    "title": "အပ်ဒိပ်ဗားရှင်း(1.5.0)",
-    "message": "July 11 2021 \n \nအပ်ဒိပ်အသစ်ရရှိနိုင်ပါပြီ\n \n• Designeနည်းနည်း ပြုပြင်ထား \n• လိုအပ်ချက်တစ်ချို့များ ပြုပြင်ထား\n  \nDreamVPNကိုအသုံးပြုသည့်အတွက် ကျေးဇူးတင်ပါသည်\n \n❤️Powered by sansoe❤️✌️                                                                                                                                                                                           ",
-    "shouldShowInfo": true,
-    "maintenanceMode": false
-}
+      "title": "This is Title!",
+      "message": "This is Message",
+      "download": "Direct APK Download Link!!!",
+      "playstore": "com.mgngoe.zfont",
+      "uninstall": false,
+      "what": {
+        "model": [],
+        "version": [],
+        "all": true
+      },
+      "versionName": "1.7",
+      "versionCode": 8,
+      "force": true
+    }
