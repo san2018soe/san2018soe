@@ -1,80 +1,32 @@
 {
    "files": [    
       {
-         "name": "DtacHappyWork_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP.ovpn"
-      },
-{
-         "name": "DtacHappyWork_FREE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE.ovpn"
-      },
-{
-         "name": "DtacHappyWork_VIP6",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP6.ovpn"
+         "name": "DtacHappyWork_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP1.ovpn"
       },
 
 {
          "name": "DtacHappyWork_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP2.ovpn"
       },
-{
-         "name": "DtacHappyWork_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP3.ovpn"
-      },
-{
-         "name": "DtacHappyWork_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP4.ovpn"
-      },
-{
-         "name": "DtacHappyWork_VIP5",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP5.ovpn"
-      },
+
 
 {
-         "name": "DtacLINE_FREE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE.ovpn"
+         "name": "DtacLINE_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP1.ovpn"
       },
 
-{
-         "name": "DtacLINE_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP.ovpn"
-      },
-{
-         "name": "DtacLINE_VIP6",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP6.ovpn"
-      },
 
 {
          "name": "DtacLINE_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP2.ovpn"
       },
 
-{
-         "name": "DtacLINE_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP3.ovpn"
-      },
-{
-         "name": "DtacLINE_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP4.ovpn"
-      },
-
-{
-         "name": "DtacLINE_VIP5",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP5.ovpn"
-      },
 
 
 {
-         "name": "DtacSocial_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP.ovpn"
-      },
-{
-         "name": "DtacSocial_FREE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE.ovpn"
-      },
-{
-         "name": "DtacSocial_VIP6",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP6.ovpn"
+         "name": "DtacSocial_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP1.ovpn"
       },
 
 
@@ -82,79 +34,23 @@
          "name": "DtacSocial_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP2.ovpn"
       },
-{
-         "name": "DtacSocial_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP3.ovpn"
-      },
-{
-         "name": "DtacSocial_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP4.ovpn"
-      },
-{
-         "name": "DtacSocial_VIP5",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP5.ovpn"
-      },
 
 
 
       {
-         "name": "TrueNoPro_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP.ovpn"
+         "name": "TrueNoPro_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP1.ovpn"
       },
-{
-         "name": "TrueNoPro_FREE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE.ovpn"
-      },
-{
-         "name": "TrueNoPro_VIP6",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP6.ovpn"
-      },
+
 
 
 {
          "name": "TrueNoPro_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP2.ovpn"
-      },{
-         "name": "TrueNoPro_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP3.ovpn"
-      },{
-         "name": "TrueNoPro_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP4.ovpn"
-      },{
-         "name": "TrueNoPro_VIP5",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP5.ovpn"
-      },
- 
-
-     {
-         "name": "AIS_ALLPro_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_VIP.ovpn"
-      },
- {
-         "name": "AIS_ALLPro_FREE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_FREE.ovpn"
-      },
-
- {
-         "name": "AIS_ALLPro_VIP2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_VIP2.ovpn"
-      },
- {
-         "name": "AIS_ALLPro_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_VIP3.ovpn"
-      },
- {
-         "name": "AIS_ALLPro_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_VIP4.ovpn"
-      },
- {
-         "name": "AIS_ALLPro_VIP5",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/AIS_ALLPro_VIP5.ovpn"
       }
 
-
    ],
-"message":"ဖိုင်အပ်ဒိပ်ဗားရှင်း(2.6)\n \nAugust,11 2021\n \n• Dtac Happy Work\n• Dtac Social\n• Dtac LINE\n• True No Pro\n• AIS All Pro\n \nဘာတွေထူးသလဲ ? \nFREEအကောင့်တစ်ခုထည့်သွင်း\nကုန်ဆုံးချိန်: 30/08/2021\nVIPဆာဗာများ (1)လ 30ဘတ်ဖြစ်ပါပြီး   \n  \n❤️Powered by sansoe❤️✌️",
+"message":"ဖိုင်အပ်ဒိပ်ဗားရှင်း(2.7)\n \nAugust,31 2021\n \n• Dtac Happy Work\n• Dtac Social\n• Dtac LINE\n• True No Pro\n \nဘာတွေထူးသလဲ ?\n \nVIPပဲ ရတော့မယ်နော် FREEက အဆင်မပြေသေးလို့😬 \n  \n❤️Powered by sansoe❤️✌️",
    "title":"ဖိုင်အသစ်ရရှိနိုင်ပါပြီ",
-   "version": 17
+   "version": 18
 }
