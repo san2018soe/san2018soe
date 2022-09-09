@@ -1,127 +1,115 @@
 {
    "files": [   
-
 {
-         "name": "TH-DtacNoPro_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_DtacNoPro_VIP.ovpn"
-      },
-
-
-
-
-{
-         "name": "DtacNoPro_VIP1",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP1.ovpn"
+         "name": "TH-DtacNoPro-VIP",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-DtacNoPro-VIP.ovpn"
       },
 
 {
-         "name": "DtacNoPro_VIP2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP2.ovpn"
+         "name": "TH-TrueNoPro-VIP",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-TrueNoPro-VIP.ovpn"
       },
 
 {
-         "name": "DtacNoPro_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP3.ovpn"
+         "name": "TH-Dtac90days-VIP",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-Dtac90days-VIP.ovpn"
       },
-
 {
-         "name": "DtacNoPro_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP4.ovpn"
+         "name": "TH-DtacLINE12-VIP",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-DtacLINE12-VIP.ovpn"
       },
 
 
-{
-         "name": "TH-Dtac90days_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_Dtac90days_VIP.ovpn"
-      },
 
 
 
 {
-         "name": "Dtac90days_VIP1",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP1.ovpn"
-      },
-{
-         "name": "Dtac90days_VIP2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP2.ovpn"
+         "name": "SG-DtacNoPro-VIP-1",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP1.ovpn"
       },
 
 {
-         "name": "Dtac90days_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP3.ovpn"
-      },
-{
-         "name": "Dtac90days_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP4.ovpn"
+         "name": "SG-DtacNoPro-VIP-2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP2.ovpn"
       },
 
-
 {
-         "name": "TH-DtacLINE_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_DtacLINE_VIP.ovpn"
+         "name": "SG-DtacNoPro-VIP-3",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP3.ovpn"
       },
 
+{
+         "name": "SG-DtacNoPro-VIP-4",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP4.ovpn"
+      },
 
 {
-         "name": "DtacLINE_VIP1",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP1.ovpn"
+         "name": "SG-Dtac90days-VIP-1",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP1.ovpn"
       },
 
 
 {
-         "name": "DtacLINE_VIP2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP2.ovpn"
-      },
-
-{
-         "name": "DtacLINE_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP3.ovpn"
-      },
-
-
-{
-         "name": "DtacLINE_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP4.ovpn"
-      },
-
-
-     {
-         "name": "TH-TrueNoPro_VIP",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_TrueNoPro_VIP.ovpn"
-      },
-
-  
-
-
-      {
-         "name": "TrueNoPro_VIP1",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP1.ovpn"
+         "name": "SG-Dtac90days-VIP-2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP2.ovpn"
       },
 
 
 
 {
-         "name": "TrueNoPro_VIP2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP2.ovpn"
+         "name": "SG-Dtac90days-VIP-3",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP3.ovpn"
       },
 
-
- {
-         "name": "TrueNoPro_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP3.ovpn"
+{
+         "name": "SG-Dtac90days-VIP-4",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP4.ovpn"
       },
-
 
 
 {
-         "name": "TrueNoPro_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP4.ovpn"
+         "name": "SG-DtacLINE12-VIP-1",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP1.ovpn"
+      },
+
+{
+         "name": "SG-DtacLINE12-VIP-2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP2.ovpn"
+      },
+
+{
+         "name": "SG-DtacLINE12-VIP-3",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP3.ovpn"
+      },
+
+{
+         "name": "SG-DtacLINE12-VIP-4",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP4.ovpn"
+      },
+
+{
+         "name": "SG-TrueNoPro-VIP-1",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP1.ovpn"
+      },
+
+{
+         "name": "SG-TrueNoPro-VIP-2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP2.ovpn"
+      },
+{
+         "name": "SG-TrueNoPro-VIP-3",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP3.ovpn"
+      },
+
+{
+         "name": "SG-TrueNoPro-VIP-4",
+         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP4.ovpn"
       }
 
 
 
    ],
-"message":"🚀 ဖိုင်ဗားရှင်း - 55 \n📆 အပ်ဒိပ်နေ့စွဲ - August 11 ရက် 2022\n \n📌အသုံးပြုလို့ရတဲ့ဆင်းမ် နှင့် Pro \n• Dtac No Pro \n• Dtac 90days \n• Dtac LINE\n• True No Pro\n \nဘာတွေထပ်ထည့်ခဲ့သလဲ ? \nVIP1&VIP2 ထည့်ပေးထားပါတယ် \n \n📌VIPအကောင့်တစ်လ - 40ဘတ် \n \n❤️VIPဆာဗာများကို လာဝယ်အားပေးကြတဲ့ မိတ်ဆွေတို့တစ်ယောက်ချင်းဆီကို အထူးကျေးဇူးတင်ရှိပါတယ်❤️",
+"message":"🚀 ဖိုင်ဗားရှင်း - 56 \n📆 အပ်ဒိပ်နေ့စွဲ - 9လပိုင်း 9 ရက် 2022\n \n📌အသုံးပြုလို့ရတဲ့ဆင်းမ် နှင့် Pro \n• Dtac No Pro \n• Dtac 90days \n• Dtac LINE\n• True No Pro\n \nဘာတွေထပ်ထည့်ခဲ့သလဲ ? \nVIP1&VIP2 ထည့်ပေးထားပါတယ် \n \n📌VIPအကောင့်တစ်လ - 40ဘတ် \n \n❤️VIPဆာဗာများကို လာဝယ်အားပေးကြတဲ့ မိတ်ဆွေတို့တစ်ယောက်ချင်းဆီကို အထူးကျေးဇူးတင်ရှိပါတယ်❤️",
    "title":"ဖိုင်အသစ်ရရှိနိုင်ပါပြီ!",
-   "version": 55
+   "version": 56
 }
